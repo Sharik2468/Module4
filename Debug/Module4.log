@@ -1,0 +1,6 @@
+﻿  Module4.cpp
+E:\Работы в универе\Курс\Module4\Module4\Module4.cpp(173,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Работы в универе\Курс\Module4\Module4\Module4.cpp(179,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+E:\Работы в универе\Курс\Module4\Module4\Module4.cpp(191,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Работы в универе\Курс\Module4\Module4\Module4.cpp(197,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Module4.vcxproj -> E:\Работы в универе\Курс\Module4\Debug\Module4.exe
